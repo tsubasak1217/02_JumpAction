@@ -34,5 +34,4 @@ public class ArrowDraw : MonoBehaviour {
 			arrowImage_.rectTransform.sizeDelta = new Vector2(size, size);
 		}
 	}
-	// b
 }

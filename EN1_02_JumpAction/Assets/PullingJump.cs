@@ -33,5 +33,4 @@ public class PullingJump : MonoBehaviour {
 			}
 		}
 	}
-	//a
 }
